@@ -1,0 +1,17 @@
+.form-success {
+  display: none;
+}
+form {
+  margin-bottom: 30px;
+}
+.label-form {
+  font-weight: 600;
+}
+.genders {
+  width: 120px;
+  display: block;
+  font-weight: 600;
+}
+.btn-submit:hover {
+  cursor: not-allowed;
+}

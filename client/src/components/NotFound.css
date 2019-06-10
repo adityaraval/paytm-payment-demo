@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    min-height: 500px;
+    align-items: center;
+    min-width: 100%;
+}
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+h1.title {
+  text-align: center;
+  font-size: 26px;
+  margin: 20px 0;
+}
